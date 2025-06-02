@@ -1,10 +1,11 @@
 # Kasongo Bond Company Pvt. Limited
 
 ## Factory Interior
-![Factory Interior](factory1.jpg.jpg)
+![Factory Interior](images/factory1.jpg)
 
 ## Worker at Machine
-![Worker at Machine](factory2.jpg.jpg)
+![Worker at Machine](images/factory2.jpg)
 
 ## Industrial Plant
-![Industrial Plant](factory3.jpg.jpg)
+![Industrial Plant](images/factory3.jpg)
+
